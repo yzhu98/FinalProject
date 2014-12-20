@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  lyricist: MyString
+  composer: MyString
+  duration: MyString
+  company_id: 
+
+two:
+  title: MyString
+  lyricist: MyString
+  composer: MyString
+  duration: MyString
+  company_id: 
